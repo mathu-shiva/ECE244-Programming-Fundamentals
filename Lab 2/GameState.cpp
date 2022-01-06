@@ -1,6 +1,6 @@
 //
 //  GameState.cpp
-//  TicTacToe
+//  TicTacToe 
 //
 //  Created by Tarek Abdelrahman on 2019-06-07.
 //  Modified by Tarek Abdelrahman on 2020-09-17.
